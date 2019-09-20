@@ -1,9 +1,9 @@
 title: go # The title of the blog
 author: lktgt1 # Your name 
-email: your-email@domain.com # your email shown in the footer
+email: lktgt@naver.com # your email shown in the footer
 url: "https://lktgt1.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 description: > # this means to ignore newlines until "show_excerpts:"
-  A clean and minimalist theme for Jekyll.
+ Flutter / Algorithm
 favicon: "./favicon.ico" # set the favicon of the site 
 remote_theme : huangyz0918/moving
 show_excerpts: false # set to true to show excerpts on the homepage
